@@ -1,0 +1,104 @@
+PatientId,FirstName,LastName,DOB,Gender,Weight_in_lbs,City,State,Hospital,Department,Phone,Admission_Date,Diagnosis,Diagnosis_Code,Doctor_First_Name,Doctor_Last_Name,DoctorID
+2,John,Malone,1985-01-07,Male,268,New Haven,CT,New Community Hospital,Infectious Disease,,2021-04-19,CORONAVIRUS DISEASE 2019 (COVID-19),INF012,Scooby,James,18
+4,Hope,Taya,1999-12-13,Female,164,Boston,MA,Viva Community Hospital,Infectious Disease,,2021-09-21,CORONAVIRUS DISEASE 2019 (COVID-19),INF012,Scooby,James,18
+5,Trygg,HUGHES,1940-06-16,Male,165,Boston,MA,Viva Community Hospital,Addiction Medicine,,2021-02-09,ALCOHOL-RELATED DISORDERS,MBD017,Yogi,Bear,36
+6,Boris,Dmitravich,1987-12-23,Male,199,New York,NY,Gotham City Medical Center,Infectious Disease,,2021-09-06,SEPTICEMIA,INF002,Scooby,James,18
+7,Perry,White,1986-10-11,Male,237,New Haven,CT,New Community Hospital,Emergency Medicine,,2021-11-12,ACUTE MYOCARDIAL INFARCTION,CIR009,Pocahontas,Eagle,81
+8,Perkins,HULL,1964-10-10,Female,155,New Haven,CT,New Community Hospital,Pulmonology,,2021-03-17,ASTHMA,RSP009,Speed,Buggy,14
+10,Azaziah,Hun,1980-04-08,Male,240,Brooklyn,NY,Moon Vegas University Hospital,Infectious Disease,,2021-12-30,SEPTICEMIA,INF002,Scooby,James,18
+11,Vladimir,Morakov,1989-12-23,Male,279,Brooklyn,NY,Moon Vegas University Hospital,Pulmonology,,2021-03-31,PNEUMONIA (EXCEPT THAT CAUSED BY TUBERCULOSIS),RSP002,Speed,Buggy,14
+12,Wild,One,1992-07-10,Male,158,Bronx,NY,GCH Medical Center,Emergency Medicine,,2021-09-02,INTESTINAL OBSTRUCTION AND ILEUS,DIG012,Pocahontas,Eagle,81
+13,Caryn,Wise,1983-04-22,Female,129,Boston,MA,Viva Community Hospital,Emergency Medicine,,2021-05-02,"FRACTURE OF THE LOWER LIMB (EXCEPT HIP), INITIAL ENCOUNTER",INJ005,Huckleberry,Hound,37
+14,Otto,Octavius,1963-07-30,Male,190,Bronx,NY,GCH Medical Center,Endocrinology,,2021-04-05,FLUID AND ELECTROLYTE DISORDERS,END011,John,Caveman,11
+16,Sally,Avril,1962-08-14,Female,140,Bronx,NY,GCH Medical Center,Emergency Medicine,,2021-03-09,"PLEURISY, PLEURAL EFFUSION AND PULMONARY COLLAPSE",RSP011,Pocahontas,Eagle,81
+17,Nina,Mazursky,2011-08-10,Female,161,New Haven,CT,New Community Hospital,Obstetrics and Gynecology,,2021-02-07,OTHER SPECIFIED AND UNSPECIFIED ENDOCRINE DISORDERS,END015,Barry,Allen,50
+20,Raleigh,Halward,1983-02-09,Male,234,Bronx,NY,GCH Medical Center,Infectious Disease,,2021-07-26,CORONAVIRUS DISEASE 2019 (COVID-19),INF012,Scooby,James,18
+22,Edward,Trane,1983-02-04,Male,274,Brooklyn,NY,Moon Vegas University Hospital,Obstetrics and Gynecology,,2021-08-23,INFLUENZA,RSP003,Granny,May,6
+23,Fashion,Thing,1968-09-25,Female,128,Boston,MA,Viva Community Hospital,Gastroenterology,,2021-11-26,APPENDICITIS AND OTHER APPENDICEAL CONDITIONS,DIG009,James,Snagglepuss,13
+25,Shathra,HUNTER,2002-12-20,Female,142,Brooklyn,NY,Moon Vegas University Hospital,Endocrinology,,2021-04-16,FLUID AND ELECTROLYTE DISORDERS,END011,John,Caveman,11
+26,Simyan,HURLEY,1971-01-07,Male,166,Brooklyn,NY,Moon Vegas University Hospital,Addiction Medicine,,2021-08-22,ALCOHOL-RELATED DISORDERS,MBD017,Barry,Allen,50
+27,String,HURST,1989-10-19,Male,260,New York,NY,Gotham City Medical Center,Emergency Medicine,,2021-05-29,CONDITIONS DUE TO NEOPLASM OR THE TREATMENT OF NEOPLASM,NEO074,Huckleberry,Hound,37
+28,Reynardo,HUTCHINSON,1988-11-17,Male,223,New York,NY,Gotham City Medical Center,Infectious Disease,,2021-08-17,CORONAVIRUS DISEASE 2019 (COVID-19),INF012,Scooby,James,18
+33,Dark-Crawler,IBARRA,1970-04-15,Male,289,Boston,MA,Viva Community Hospital,Pulmonology,,2021-12-27,PNEUMONIA (EXCEPT THAT CAUSED BY TUBERCULOSIS),RSP002,Speed,Buggy,14
+35,LaHoya,Scripps,1991-12-24,Female,156,Bronx,NY,GCH Medical Center,Gastroenterology,,2021-05-24,APPENDICITIS AND OTHER APPENDICEAL CONDITIONS,DIG009,James,Snagglepuss,13
+37,Mister,Magic,1982-08-06,Male,169,Boston,MA,Viva Community Hospital,Infectious Disease,,2021-08-11,SEPTICEMIA,INF002,Scooby,James,18
+39,Gunther,Van,1993-10-18,Male,190,New York,NY,Gotham City Medical Center,Obstetrics and Gynecology,,2021-09-08,SECONDARY MALIGNANCIES,NEO070,Barry,Allen,50
+40,Vranx,ibn,1994-02-13,Male,241,Brooklyn,NY,Moon Vegas University Hospital,Emergency Medicine,,2021-10-19,GASTROINTESTINAL CANCERS - COLORECTAL,NEO015,Huckleberry,Hound,37
+41,Tantaro,Impostor,1994-03-13,Male,244,Brooklyn,NY,Moon Vegas University Hospital,Emergency Medicine,,2021-07-17,HEART FAILURE,CIR019,Pocahontas,Eagle,81
+43,Korlian,Dasor,1961-10-06,Male,197,Brooklyn,NY,Moon Vegas University Hospital,Infectious Disease,,2021-09-14,SEPTICEMIA,INF002,Scooby,James,18
+44,Teekl,Impostor,1973-03-20,Male,287,New York,NY,Gotham City Medical Center,Emergency Medicine,,2021-01-22,OTHER SPECIFIED AND UNSPECIFIED LIVER DISEASE,DIG019,Pocahontas,Eagle,81
+45,John,Judson,1980-07-13,Male,152,Boston,MA,Viva Community Hospital,Emergency Medicine,,2021-05-17,RESPIRATORY FAILURE; INSUFFICIENCY; ARREST,RSP012,Pocahontas,Eagle,81
+47,Hector,INGRAM,1991-03-31,Male,222,New Haven,CT,New Community Hospital,Pulmonology,,2021-10-26,PNEUMONIA (EXCEPT THAT CAUSED BY TUBERCULOSIS),RSP002,Speed,Buggy,14
+49,Rachel,Rathaway,1989-11-05,Female,130,Brooklyn,NY,Moon Vegas University Hospital,Pulmonology,,2021-03-11,ASTHMA,RSP009,Speed,Buggy,14
+50,Zaxy,Irons,1988-01-11,Male,150,New York,NY,Gotham City Medical Center,Emergency Medicine,,2021-08-17,OTHER SPECIFIED AND UNSPECIFIED LIVER DISEASE,DIG019,Pocahontas,Eagle,81
+52,Anakalak,Ives,1993-09-25,Male,242,Boston,MA,Viva Community Hospital,Emergency Medicine,,2021-03-01,GASTRODUODENAL ULCER,DIG005,Huckleberry,Hound,37
+53,Rumaan,Harjavti,1987-06-30,Male,281,Boston,MA,Viva Community Hospital,Emergency Medicine,,2021-03-18,"FRACTURE OF THE SPINE AND BACK, INITIAL ENCOUNTER",INJ002,Huckleberry,Hound,37
+54,Chantinelle,JACKSON,1947-12-10,Female,128,Brooklyn,NY,Moon Vegas University Hospital,Emergency Medicine,,2021-10-06,OPIOID-RELATED DISORDERS,MBD018,Huckleberry,Hound,37
+56,Lucius,BAILEY,1961-12-08,Male,209,Boston,MA,Viva Community Hospital,Emergency Medicine,,2021-10-19,NONRHEUMATIC AND UNSPECIFIED VALVE DISORDERS,CIR003,Pocahontas,Eagle,81
+57,Wire,JACOBSON,1993-05-02,Male,289,New York,NY,Gotham City Medical Center,Infectious Disease,,2021-02-13,SEPTICEMIA,INF002,Scooby,James,18
+62,Xorak,JAMES,1967-06-22,Male,284,Boston,MA,Viva Community Hospital,Emergency Medicine,,2021-12-19,EPILEPSY; CONVULSIONS,NVS009,Pocahontas,Eagle,81
+63,Ewald,Olafsson,1993-09-05,Male,176,Boston,MA,Viva Community Hospital,Emergency Medicine,,2021-02-13,HEART FAILURE,CIR019,Huckleberry,Hound,37
+64,Rachel,Argosy,1992-06-17,Female,161,New York,NY,Gotham City Medical Center,Addiction Medicine,,2021-08-05,ALCOHOL-RELATED DISORDERS,MBD017,Yogi,Bear,36
+67,Tag-A-Long,Thomas,1961-11-13,Male,233,Brooklyn,NY,Moon Vegas University Hospital,Nephrology,,2021-10-01,ACUTE AND UNSPECIFIED RENAL FAILURE,GEN002,Sarah,Jane,31
+68,Hugh,Dare,1976-07-02,Male,176,New York,NY,Gotham City Medical Center,Infectious Disease,,2021-06-19,SEPTICEMIA,INF002,Scooby,James,18
+69,William,Nasland,1977-03-31,Male,137,New Haven,CT,New Community Hospital,Endocrinology,,2021-08-19,DIABETES MELLITUS WITH COMPLICATION,END003,John,Caveman,11
+70,Jeb,Turnbull,1974-08-29,Male,251,Brooklyn,NY,Moon Vegas University Hospital,Emergency Medicine,,2021-01-17,EPILEPSY; CONVULSIONS,NVS009,Huckleberry,Hound,37
+72,Pietro,Sapristi,1986-11-03,Male,151,Bronx,NY,GCH Medical Center,Emergency Medicine,,2021-05-12,"COMPLICATION OF OTHER SURGICAL OR MEDICAL CARE, INJURY, INITIAL ENCOUNTER",INJ037,Pocahontas,Eagle,81
+73,Henry,Enwhistle,1948-12-29,Male,273,Bronx,NY,GCH Medical Center,Addiction Medicine,,2021-03-01,ALCOHOL-RELATED DISORDERS,MBD017,Yogi,Bear,36
+75,Pyreus,Kril,1974-07-30,Male,175,Brooklyn,NY,Moon Vegas University Hospital,Obstetrics and Gynecology,,2021-09-12,OTHER SPECIFIED AND UNSPECIFIED DISEASES OF KIDNEY AND URETERS,GEN006,Barry,Allen,50
+76,Nebulo,Jameson,1968-10-05,Male,263,Boston,MA,Viva Community Hospital,Pulmonology,,2021-11-21,ACUTE PULMONARY EMBOLISM,CIR013,Speed,Buggy,14
+77,Quill,"Jameson,",1988-07-21,Male,256,Boston,MA,Viva Community Hospital,Emergency Medicine,,2021-04-13,"INTERNAL ORGAN INJURY, INITIAL ENCOUNTER",INJ010,Huckleberry,Hound,37
+78,Salvatore,Carbone,1992-03-02,Male,177,Bronx,NY,GCH Medical Center,Emergency Medicine,,2021-06-24,HEPATIC FAILURE,DIG018,Huckleberry,Hound,37
+79,Ogre,JARAMILLO,1944-12-12,Male,188,Bronx,NY,GCH Medical Center,Addiction Medicine,,2021-08-25,ALCOHOL-RELATED DISORDERS,MBD017,Yogi,Bear,36
+80,Cain,Marko,1965-07-04,Male,186,Boston,MA,Viva Community Hospital,Infectious Disease,,2021-04-17,CORONAVIRUS DISEASE 2019 (COVID-19),INF012,Scooby,James,18
+81,Madcap,JARVIS,1985-07-07,Male,276,New York,NY,Gotham City Medical Center,Emergency Medicine,,2021-11-27,SKIN AND SUBCUTANEOUS TISSUE INFECTIONS,SKN001,Huckleberry,Hound,37
+82,General,Bridges,1968-03-23,Male,254,New Haven,CT,New Community Hospital,Emergency Medicine,,2021-07-01,DISEASES OF WHITE BLOOD CELLS,BLD007,Huckleberry,Hound,37
+83,Henrietta,Hunter,2003-10-16,Female,120,Brooklyn,NY,Moon Vegas University Hospital,Endocrinology,,2021-08-08,DIABETES MELLITUS WITH COMPLICATION,END003,John,Caveman,11
+84,White,Canary,2010-07-21,Female,159,New York,NY,Gotham City Medical Center,Emergency Medicine,,2021-05-31,POLYNEUROPATHIES,NVS015,Huckleberry,Hound,37
+85,Eric,Reardon,1987-01-12,Male,266,Brooklyn,NY,Moon Vegas University Hospital,Emergency Medicine,,2021-07-14,SKIN AND SUBCUTANEOUS TISSUE INFECTIONS,SKN001,Pocahontas,Eagle,81
+86,Dark,Opal,1983-04-07,Male,295,New York,NY,Gotham City Medical Center,Endocrinology,,2021-10-14,DIABETES MELLITUS WITH COMPLICATION,END003,John,Caveman,11
+87,Illarion,Pavlovich,1990-11-11,Male,290,Bronx,NY,GCH Medical Center,Emergency Medicine,,2021-03-07,SKIN AND SUBCUTANEOUS TISSUE INFECTIONS,SKN001,Huckleberry,Hound,37
+93,Zandor,JENKINS,1975-01-02,Male,151,New York,NY,Gotham City Medical Center,Gastroenterology,,2021-09-26,PANCREATIC DISORDERS (EXCLUDING DIABETES),DIG020,James,Snagglepuss,13
+94,Lawrence,Trask,1969-06-05,Male,197,New York,NY,Gotham City Medical Center,Otolaryngology,,2021-05-26,ACUTE AND CHRONIC TONSILLITIS,RSP004,Taz,Mania,44
+95,Grace,JENNINGS,1999-09-27,Female,131,New York,NY,Gotham City Medical Center,Emergency Medicine,,2021-01-24,CARDIAC DYSRHYTHMIAS,CIR017,Pocahontas,Eagle,81
+96,Anpu,JENSEN,1976-08-22,Male,239,Brooklyn,NY,Moon Vegas University Hospital,Emergency Medicine,,2021-11-17,ACUTE MYOCARDIAL INFARCTION,CIR009,Huckleberry,Hound,37
+97,Titanis,JIMENEZ,1976-07-03,Female,168,Boston,MA,Viva Community Hospital,Gastroenterology,,2021-05-15,ABDOMINAL PAIN AND OTHER DIGESTIVE/ABDOMEN SIGNS AND SYMPTOMS,SYM006,James,Snagglepuss,13
+99,Arthur,Thornhill,1978-03-20,Male,240,Brooklyn,NY,Moon Vegas University Hospital,Emergency Medicine,,2021-09-26,ACUTE MYOCARDIAL INFARCTION,CIR009,Pocahontas,Eagle,81
+102,Sharon,Ginsberg,2002-10-09,Female,174,New Haven,CT,New Community Hospital,Emergency Medicine,,2021-11-07,ACUTE MYOCARDIAL INFARCTION,CIR009,Pocahontas,Eagle,81
+108,Lady,Bangook,2009-09-26,Female,139,Boston,MA,Viva Community Hospital,Addiction Medicine,,2021-01-14,ALCOHOL-RELATED DISORDERS,MBD017,Yogi,Bear,36
+115,Victoria,Hand,2009-02-26,Female,175,Brooklyn,NY,Moon Vegas University Hospital,Emergency Medicine,,2021-09-14,"COMPLICATION OF GENITOURINARY DEVICE, IMPLANT OR GRAFT, INITIAL ENCOUNTER",INJ034,Pocahontas,Eagle,81
+116,Michelle,Carter,1986-07-30,Female,137,New Haven,CT,New Community Hospital,Infectious Disease,,2021-11-23,SEPTICEMIA,INF002,Scooby,James,18
+121,Pandora,Destine,1974-06-19,Female,156,Bronx,NY,GCH Medical Center,Gastroenterology,,2021-06-17,GASTRITIS AND DUODENITIS,DIG007,James,Snagglepuss,13
+127,Holly,Granger,2005-05-30,Female,155,Boston,MA,Viva Community Hospital,Emergency Medicine,,2021-01-16,CHRONIC OBSTRUCTIVE PULMONARY DISEASE AND BRONCHIECTASIS,RSP008,Huckleberry,Hound,37
+131,Esther,Lucas,1992-06-19,Female,157,New York,NY,Gotham City Medical Center,Gastroenterology,,2021-08-10,APPENDICITIS AND OTHER APPENDICEAL CONDITIONS,DIG009,James,Snagglepuss,13
+135,Merriem,Drew,1978-04-26,Female,129,New Haven,CT,New Community Hospital,Emergency Medicine,,2021-02-17,OTHER SPECIFIED AND UNSPECIFIED LIVER DISEASE,DIG019,Huckleberry,Hound,37
+137,Amp,JORDAN,2008-05-27,Female,145,Brooklyn,NY,Moon Vegas University Hospital,Emergency Medicine,,2021-08-28,OTHER SPECIFIED UPPER RESPIRATORY INFECTIONS,RSP006,Huckleberry,Hound,37
+138,Eleyn,JOSEPH,1973-01-19,Female,125,Boston,MA,Viva Community Hospital,Emergency Medicine,,2021-03-11,DEPRESSIVE DISORDERS,MBD002,Pocahontas,Eagle,81
+143,Debra,Whitman,1979-09-19,Female,129,Brooklyn,NY,Moon Vegas University Hospital,Infectious Disease,,2021-04-04,CORONAVIRUS DISEASE 2019 (COVID-19),INF012,Scooby,James,18
+152,Brianna,Robbins,2010-06-01,Female,170,New York,NY,Gotham City Medical Center,Emergency Medicine,,2021-07-15,NAUSEA AND VOMITING,SYM004,Pocahontas,Eagle,81
+153,Thelma,Gordon,1987-11-25,Female,127,New Haven,CT,New Community Hospital,Emergency Medicine,,2021-10-31,OB-RELATED TRAUMA TO PERINEUM AND VULVA,PRG026,Pocahontas,Eagle,81
+161,Bella,Blaire,1981-03-13,Female,139,Bronx,NY,GCH Medical Center,Infectious Disease,,2021-12-01,SEPTICEMIA,INF002,Scooby,James,18
+167,Gladys,Smallwood,1983-09-25,Female,160,Bronx,NY,GCH Medical Center,Obstetrics and Gynecology,,2021-08-05,SECONDARY MALIGNANCIES,NEO070,Barry,Allen,50
+169,Ava,Peloso,1973-12-15,Female,151,New Haven,CT,New Community Hospital,Emergency Medicine,,2021-12-26,"COMPLICATION OF GENITOURINARY DEVICE, IMPLANT OR GRAFT, INITIAL ENCOUNTER",INJ034,Huckleberry,Hound,37
+172,Maria,Hill,2005-04-12,Female,142,New York,NY,Gotham City Medical Center,Infectious Disease,,2021-11-06,SEPTICEMIA,INF002,Scooby,James,18
+173,Alkhema,KENT,1993-01-26,Female,171,Bronx,NY,GCH Medical Center,Emergency Medicine,,2021-01-06,ACUTE MYOCARDIAL INFARCTION,CIR009,Pocahontas,Eagle,81
+176,Slash,KHAN,1984-06-03,Female,132,New York,NY,Gotham City Medical Center,Psychiatry,,2021-12-30,SCHIZOPHRENIA SPECTRUM AND OTHER PSYCHOTIC DISORDERS,MBD001,Jonny,Quest,16
+179,Mother,Banner,1996-06-24,Female,156,Brooklyn,NY,Moon Vegas University Hospital,Emergency Medicine,,2021-06-21,CHRONIC OBSTRUCTIVE PULMONARY DISEASE AND BRONCHIECTASIS,RSP008,Pocahontas,Eagle,81
+180,Alison,Kane,1969-01-01,Female,157,New Haven,CT,New Community Hospital,Gastroenterology,,2021-05-10,GASTROINTESTINAL HEMORRHAGE,DIG021,James,Snagglepuss,13
+185,Katherine,McClellan,1990-07-08,Female,166,Boston,MA,Viva Community Hospital,Emergency Medicine,,2021-12-14,OSTEOMYELITIS,MUS002,Huckleberry,Hound,37
+190,Jane,Foster,1996-11-06,Female,151,New Haven,CT,New Community Hospital,Emergency Medicine,,2021-10-19,"POISONING BY DRUGS, INITIAL ENCOUNTER",INJ022,Huckleberry,Hound,37
+196,Forget-Me-Not,Kiyahani,2007-08-24,Female,126,New York,NY,Gotham City Medical Center,Emergency Medicine,,2021-01-10,"FRACTURE OF THE LOWER LIMB (EXCEPT HIP), INITIAL ENCOUNTER",INJ005,Pocahontas,Eagle,81
+197,Starfire,KLEIN,1976-09-01,Female,141,Boston,MA,Viva Community Hospital,Endocrinology,,2021-03-01,DIABETES MELLITUS WITH COMPLICATION,END003,John,Caveman,11
+202,Nancy,Stacy,1971-02-26,Female,121,New Haven,CT,New Community Hospital,Emergency Medicine,,2021-08-09,URINARY TRACT INFECTIONS,GEN004,Huckleberry,Hound,37
+207,Danielle,Cage,2006-03-05,Female,167,New Haven,CT,New Community Hospital,Obstetrics and Gynecology,,2021-06-23,SPONDYLOPATHIES/SPONDYLOARTHROPATHY (INCLUDING INFECTIVE),MUS011,Granny,May,6
+211,Martha,Johansson,2001-11-20,Female,175,New York,NY,Gotham City Medical Center,Infectious Disease,,2021-12-20,SEPTICEMIA,INF002,Barry,Allen,50
+212,Harleen,Quinzel,1999-10-20,Female,162,New York,NY,Gotham City Medical Center,Emergency Medicine,,2021-06-30,ACUTE MYOCARDIAL INFARCTION,CIR009,Huckleberry,Hound,37
+213,Dennap,KNIGHT,2003-11-22,Female,124,Brooklyn,NY,Moon Vegas University Hospital,Emergency Medicine,,2021-06-30,HEART FAILURE,CIR019,Pocahontas,Eagle,81
+219,Gloria,Mu\u00f1oz,1996-02-24,Female,156,Bronx,NY,GCH Medical Center,Emergency Medicine,,2021-08-06,POLYNEUROPATHIES,NVS015,Huckleberry,Hound,37
+224,Tarene,Krupp,2008-12-31,Female,162,Bronx,NY,GCH Medical Center,Gastroenterology,,2021-12-04,GASTRITIS AND DUODENITIS,DIG007,James,Snagglepuss,13
+225,Rosalinda,Aguilar,2004-03-13,Female,168,Boston,MA,Viva Community Hospital,Emergency Medicine,,2021-01-27,OTHER SPECIFIED INJURY,INJ026,Pocahontas,Eagle,81
+226,Dusk,LAM,1972-08-04,Female,131,New York,NY,Gotham City Medical Center,Emergency Medicine,,2021-03-09,OPIOID-RELATED DISORDERS,MBD018,Huckleberry,Hound,37
+234,Zefra,LANG,1994-06-22,Female,167,New Haven,CT,New Community Hospital,Obstetrics and Gynecology,,2021-04-10,OTHER SPECIFIED AND UNSPECIFIED GASTROINTESTINAL DISORDERS,DIG025,Granny,May,6
+238,Asahiri,Aoki,2004-05-18,Female,168,Bronx,NY,GCH Medical Center,Emergency Medicine,,2021-06-02,CHRONIC OBSTRUCTIVE PULMONARY DISEASE AND BRONCHIECTASIS,RSP008,Barry,Allen,50
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
